@@ -185,3 +185,12 @@ Add screenshots of:
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
+
+<img width="1902" height="862" alt="Screenshot 2026-06-08 105835" src="https://github.com/user-attachments/assets/d184329f-1218-454c-a83a-038576b2866e" />
+
+<img width="1918" height="857" alt="Screenshot 2026-06-08 105909" src="https://github.com/user-attachments/assets/92b5e0c2-9cd3-4229-aa51-875267b1c2d1" />
+
+<img width="1917" height="866" alt="Screenshot 2026-06-08 105928" src="https://github.com/user-attachments/assets/df5a32e8-3cee-4d86-a4b9-153bdbbaf11e" />
+
+<img width="1917" height="858" alt="Screenshot 2026-06-08 110003" src="https://github.com/user-attachments/assets/2c059d83-acf9-42cf-a964-047ceb9578c2" />
+
